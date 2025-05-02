@@ -7,5 +7,6 @@ Built with HTML and CSS, the website includes:
 - About
 - Services
 - News
+- Careers
 
 It's a multi-page layout to represent a company profile and its services in a professional structure.

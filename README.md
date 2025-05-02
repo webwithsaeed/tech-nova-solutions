@@ -1,2 +1,11 @@
-# tech-nova-solutions
-A simple multi-page company website for Tech Nova Solutions, built with HTML and CSS.
+# Tech Nova Solutions Website
+
+This is a company-style website created for Tech Nova Solutions.  
+Built with HTML and CSS, the website includes:
+
+- Home
+- About
+- Services
+- News
+
+It's a multi-page layout to represent a company profile and its services in a professional structure.

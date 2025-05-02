@@ -1,0 +1,116 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body Style */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+/* Header */
+header {
+    background-color: #004080;
+    color: #ffffff;
+    padding: 20px 0;
+    text-align: center;
+    margin-bottom: 20px;
+    min-height: 100px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+header h1 {
+    color: white; /* لون النص أبيض */
+    font-size: 36px; /* تكبير الخط */
+    margin: 0; /* إلغاء المسافات الخارجية */
+}
+
+/* Navigation Menu */
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    background-color: #0066cc;
+    padding: 10px 0;
+    margin-bottom: 20px;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 8px 12px;
+    transition: background-color 0.3s;
+}
+
+nav ul li a:hover {
+    background-color: #003366;
+    border-radius: 5px;
+}
+
+/* Section Styling */
+section {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
+
+/* Table Styling */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid #ccc;
+}
+
+th, td {
+    padding: 12px;
+    text-align: center;
+}
+
+th {
+    background-color: #004080;
+    color: white;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 15px 0;
+    background-color: #004080;
+    color: white;
+    margin-top: 20px;
+}
+
+/* Images inside tables */
+table img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Headlines */
+h1, h2, h3 {
+    color: #004080;
+    margin-bottom: 10px;
+}
+
+/* Paragraphs */
+p {
+    margin-bottom: 10px;
+}
